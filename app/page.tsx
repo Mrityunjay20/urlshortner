@@ -400,7 +400,7 @@ export default function URLShortenerLanding() {
               </p>
             </div>
 
-            <div>
+            {/* <div>
               <h3 className="font-semibold mb-4">Product</h3>
               <ul className="space-y-2 text-gray-400">
                 <li>
@@ -471,7 +471,7 @@ export default function URLShortenerLanding() {
                   </Link>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
 
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
