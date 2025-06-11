@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'mjxsh url shortner',
+  title: 'url shortner',
   description: 'Created by mjxsh',
   generator: 'v0.dev',
 }
