@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'mjxsh url shortner',
-  description: 'Created with v0',
+  description: 'Created by mjxsh',
   generator: 'v0.dev',
 }
 
