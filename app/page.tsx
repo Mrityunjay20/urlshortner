@@ -120,7 +120,7 @@ export default function URLShortenerLanding() {
                   </Button>
                 </div>
                 <p className="text-sm text-gray-500 mt-3 text-left">
-                  Free • No registration required • Instant results
+                  Free • Instant results
                 </p>
               </CardContent>
             </Card>
